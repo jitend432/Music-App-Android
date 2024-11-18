@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicX</string>
+    <string name="textview">TextView</string>
+    <string name="to_view_image">TO VIEW IMAGE</string>
+    <string name="play_next_music">PLAY NEXT MUSIC</string>
+    <string name="to_pause_music">TO PAUSE MUSIC</string>
+    <string name="to_play_music">To play music</string>
+</resources>
